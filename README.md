@@ -1,2 +1,0 @@
-# setsam-bot
-Bot sestam

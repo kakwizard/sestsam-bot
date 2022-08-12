@@ -1,7 +1,7 @@
 const info = {
-    prefix: '.', //اكتب بريفكس بوتك
-    token: 'ODY5NzM1MTMxMDY0MTcyNTQ1.GGboub.0SrmZQEP9aJLw4aDQ3-BzJFR2OQ2lPkMwOb3gk', // اكتب توكن بوتك
-    owner: '' // ايديك
+    prefix: '+', //اكتب بريفكس بوتك
+    token: 'OTg2OTE5MjU1NTMyNTExMzAy.GCywUF.Xp5iB5Lcn_Y_52aBcW-p2AoJjIsXflagFyHKf0', // اكتب توكن بوتك
+    owner: '772060357174624266' // ايديك
 }
 
 
